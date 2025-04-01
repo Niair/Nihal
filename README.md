@@ -1,38 +1,50 @@
-<h1 align="center">👋 Hi, I'm Nihal Kumar</h1>
----
+# 👋 Nihal Kumar  
+**Data Scientist | Machine Learning Specialist | AI Developer**
 
-🌟 Passionate about leveraging data to drive impactful solutions. Skilled in machine learning, AI, and data visualization, with a focus on building deployable models and interactive dashboards.
-
----
-
-🚀 About Me
-
-🎓 MCA Student | Aspiring Data Scientist
-📊 Data Analysis | Machine Learning | AI
-📈 Model Deployment | Web Scraping | Data Visualization
+🌟 Leveraging data to build impactful AI solutions. Expertise in end-to-end model development, insightful analytics, and interactive dashboards for data-driven decision-making.  
 
 ---
 
-🛠️ Skills & Technologies
+## 🚀 Professional Profile
 
-🔹 Languages: Python, SQL, HTML, CSS
-🔹 Frameworks & Tools: Pandas, NumPy, Scikit-learn, TensorFlow, Power BI, MySQL Workbench, Selenium, Streamlit
-🔹 Specialties: Feature Engineering, Model Optimization, Dashboard Desighner
+**📚 Education**  
+- MCA Candidate | Aspiring Data Scientist (Expected Graduation: [Year])  
 
----
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihal-kumar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>📫 Connect with Me
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>  
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=flat&logo=google-chrome" alt="Portfolio" /></a>  
-</p>
+**🔍 Core Expertise**  
+- **Machine Learning**: Predictive Modeling, Deep Learning, NLP  
+- **Data Engineering**: ETL Pipelines, Feature Optimization, Big Data Tools  
+- **Deployment**: Production-grade ML Models (TensorFlow, Streamlit)  
+- **Visualization**: Power BI, Tableau, Interactive Dashboards  
 
 ---
 
-💡 Let's collaborate and innovate together! 🚀
+## 🛠️ Technical Toolkit
 
+**📋 Languages**  
+Python | SQL | HTML/CSS  
+
+**🧰 Frameworks & Libraries**  
+- **Data Science**: Pandas, NumPy, Scikit-learn  
+- **Machine Learning**: TensorFlow, Keras, PyTorch  
+- **Tools**: Jupyter, Git, MySQL, Selenium, Power BI  
+
+**🎯 Specializations**  
+- Feature Engineering & Model Optimization  
+- Automated Web Scraping & Data Pipelines  
+- Real-time Analytics & Dashboard Design  
+
+---
+
+## 📈 GitHub Highlights
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue)  
+![GitHub Stars](https://img.shields.io/github/stars/yourusername?label=GitHub%20Stars)  
+
+---
+
+## 📫 Let's Collaborate!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088)](https://yourportfolio.com) *Coming Soon!*  
+
+💡 **Open to innovative projects, research opportunities, and data-driven challenges!**  
