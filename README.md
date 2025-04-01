@@ -40,8 +40,7 @@ Python | SQL | Java | HTML/CSS
 
 ## 📈 GitHub Highlights
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue)  
-![GitHub Stars](https://img.shields.io/github/stars/yourusername?label=GitHub%20Stars) 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue)   
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nihal-kumar&show_icons=true&theme=radical" alt="GitHub Stats" />
