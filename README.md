@@ -3,14 +3,15 @@
 
 🌟 Welcome to my GitHub profile! 
 
-🚀 I’m passionate about coding, machine learning, and finance. I enjoy solving real-world problems through innovative solutions and turning ideas into actionable projects. Expertise in end-to-end model development, insightful analytics, and interactive dashboards for data-driven decision-making.  
+🚀 I’m passionate about coding and machine learning. I enjoy solving real-world problems through innovative solutions and turning ideas into actionable projects. Expertise in end-to-end model development, insightful analytics, and interactive dashboards for data-driven decision-making.  
 
 ---
 
 ## 🚀 Professional Profile
 
 **📚 Education**  
-- MCA Candidate | Aspiring Data Scientist (Expected Graduation: 2026)  
+- MCA | Amity Noida | Last Semester Grade 7.63 | (Post Graduation: 2026)
+- BCA | SGTBIMIT | 8.826 | (Graduation: 2024)
 
 **🔍 Core Expertise**  
 - **Machine Learning**: Predictive Modeling, Deep Learning 
