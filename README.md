@@ -1,8 +1,4 @@
-
----
-
 <h1 align="center">👋 Hi, I'm Nihal Kumar</h1>
-<p align="center">Data Scientist | Machine Learning Enthusiast | AI Innovator</p>
 ---
 
 🌟 Passionate about leveraging data to drive impactful solutions. Skilled in machine learning, AI, and data visualization, with a focus on building deployable models and interactive dashboards.
