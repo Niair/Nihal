@@ -1,5 +1,5 @@
 # 👋 Nihal Kumar  
-**Data Scientist | Machine Learning Specialist | AI Developer**
+**Data Scientist | Data Analytics**
 
 🌟 Welcome to my GitHub profile! 
 
