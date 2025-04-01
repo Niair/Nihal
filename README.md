@@ -8,11 +8,10 @@
 ## 🚀 Professional Profile
 
 **📚 Education**  
-- MCA Candidate | Aspiring Data Scientist (Expected Graduation: [Year])  
+- MCA Candidate | Aspiring Data Scientist (Expected Graduation: 2026)  
 
 **🔍 Core Expertise**  
-- **Machine Learning**: Predictive Modeling, Deep Learning, NLP  
-- **Data Engineering**: ETL Pipelines, Feature Optimization, Big Data Tools  
+- **Machine Learning**: Predictive Modeling, Deep Learning, NLP    
 - **Deployment**: Production-grade ML Models (TensorFlow, Streamlit)  
 - **Visualization**: Power BI, Tableau, Interactive Dashboards  
 
@@ -21,12 +20,13 @@
 ## 🛠️ Technical Toolkit
 
 **📋 Languages**  
-Python | SQL | HTML/CSS  
+Python | SQL | Java | HTML/CSS
 
 **🧰 Frameworks & Libraries**  
-- **Data Science**: Pandas, NumPy, Scikit-learn  
-- **Machine Learning**: TensorFlow, Keras, PyTorch  
-- **Tools**: Jupyter, Git, MySQL, Selenium, Power BI  
+- **Data Science**: Pandas, NumPy, Scikit-learn
+- **Data Visualization**: matplotlib, seaborn  
+- **Machine Learning**: TensorFlow, sklearn 
+- **Tools**: Jupyter, Git, MySQL, Selenium, Power BI 
 
 **🎯 Specializations**  
 - Feature Engineering & Model Optimization  
