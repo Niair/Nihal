@@ -15,7 +15,7 @@
 
 **🔍 Core Expertise**  
 - **Machine Learning**: Predictive Modeling, Deep Learning 
-- **Deployment**: Production-grade ML Models (TensorFlow, Streamlit)  
+- **Deployment**: Production-grade ML Models (Scikit-learn, Streamlit, Flask)  
 - **Visualization**: Power BI, Tableau, Interactive Dashboards  
 
 ---
@@ -28,7 +28,7 @@ Python | SQL | Java | HTML/CSS
 **🧰 Frameworks & Libraries**  
 - **Data Science**: Pandas, NumPy, Scikit-learn
 - **Data Visualization**: matplotlib, seaborn  
-- **Machine Learning**: TensorFlow, sklearn 
+- **Machine Learning**: TensorFlow, Scikit-learn
 - **Tools**: Jupyter, Git, MySQL, Selenium, Power BI 
 
 **🎯 Specializations**  
