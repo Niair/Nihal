@@ -1,7 +1,9 @@
 # 👋 Nihal Kumar  
 **Data Scientist | Machine Learning Specialist | AI Developer**
 
-🌟 Leveraging data to build impactful AI solutions. Expertise in end-to-end model development, insightful analytics, and interactive dashboards for data-driven decision-making.  
+🌟 Welcome to my GitHub profile! 
+
+🚀 I’m passionate about coding, machine learning, and finance. I enjoy solving real-world problems through innovative solutions and turning ideas into actionable projects. Expertise in end-to-end model development, insightful analytics, and interactive dashboards for data-driven decision-making.  
 
 ---
 
@@ -11,7 +13,7 @@
 - MCA Candidate | Aspiring Data Scientist (Expected Graduation: 2026)  
 
 **🔍 Core Expertise**  
-- **Machine Learning**: Predictive Modeling, Deep Learning, NLP    
+- **Machine Learning**: Predictive Modeling, Deep Learning 
 - **Deployment**: Production-grade ML Models (TensorFlow, Streamlit)  
 - **Visualization**: Power BI, Tableau, Interactive Dashboards  
 
